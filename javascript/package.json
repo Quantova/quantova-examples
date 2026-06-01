@@ -1,0 +1,15 @@
+{
+  "name": "quantova-examples-js",
+  "version": "1.0.0",
+  "description": "Runnable Quantova examples using qweb3.js",
+  "license": "BUSL-1.1",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": { "qweb3.js": "^1.1.0" },
+  "scripts": {
+    "transfer": "node 01_transfer.js",
+    "contract": "node 02_contract_call.js",
+    "qns": "node 03_qns_resolve.js",
+    "vote": "node 04_governance_vote.js"
+  }
+}

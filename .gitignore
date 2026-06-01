@@ -1,0 +1,22 @@
+# Secrets / keys (defensive: examples need none)
+.env
+.env.*
+*.key
+*.pem
+*.seed
+*.mnemonic
+secrets.*
+credentials.*
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
