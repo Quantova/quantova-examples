@@ -16,7 +16,7 @@ identical. The final broadcast uses the @quantova api layer at runtime.
 
 from _common import banner, connect, num, to_planck, to_qtov, use_demo_backend
 
-RECIPIENT = "Qe3sJ0p1mK4wQDJUgrrMqVt3Hs8="  # example Q-address (replace with a real one)
+RECIPIENT = "Q1GP3FR9CVK3XAJSQGC7DU47WCDUVTFDYMY0H82C"  # example Q-address (replace with a real one)
 AMOUNT_QTOV = 1.5
 
 
