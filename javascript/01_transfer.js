@@ -25,8 +25,8 @@
 'use strict';
 const { rpc, num, toQtov, toPlanck, banner } = require('./_common');
 
-const SENDER = 'Qf2t7p9C5Im4waDJUgrrMqVt3Hs8=';     // example Q-address
-const RECIPIENT = 'Qe3sJ0p1mK4wQDJUgrrMqVt3Hs8=';   // example Q-address
+const SENDER = 'Q1GRZ4PVL7DGX588TXW4P4MPZCXL7F8FE46HKF5J';     // example Q-address
+const RECIPIENT = 'Q1GP3FR9CVK3XAJSQGC7DU47WCDUVTFDYMY0H82C';   // example Q-address
 const AMOUNT_QTOV = 1.5;
 
 async function main() {
