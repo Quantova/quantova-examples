@@ -63,11 +63,11 @@ JSON-RPC endpoint. Addresses, balances, and hashes are from that run.
   Quantova example: native TQTOV transfer
 ================================================================
 Connected. Current block: 1715005
-Sender (Dilithium): QNTjBkO4tmiytTcxDewT2APHWDY=
+Sender (Dilithium): Q1GQ9YSUEM6HP826AFT3VZ3NYRACT040XNKRUCWF
 Balance: 250 TQTOV   nonce: 3
 Fee tier: standard = 0x5f5e100 (quantova-dynamic-no-burn)
 
-Transfer: 1.5 TQTOV -> Qe3sJ0p1mK4wQDJUgrrMqVt3Hs8=
+Transfer: 1.5 TQTOV -> Q1GP3FR9CVK3XAJSQGC7DU47WCDUVTFDYMY0H82C
 Post-quantum signature: 0x60843581143c2cbd3136663de317f790… (64 bytes)
 Broadcast! tx hash: 0xa8ecd1a53b29f6f070947cb5921c7679fd9275d2eda2ca46deb8d9bbde9c51d7
 Included in block: 1715005   status: 0x1
@@ -85,7 +85,7 @@ topic    Transfer(address,address,uint256): 0xddf252ad1be2c89b…
 
 balanceOf(0x11111111…) = 1000000000000000000000  (= 1000.0 tokens)
 
-Write: transfer 25 tokens, from QLkfDhR69/FYS9h1onkX+orHiDk=
+Write: transfer 25 tokens, from Q1GZD3AGFY5U426V9NX6UNE06ZC4YVKNK3GU9L3C
 calldata: 0xa9059cbb00000000000000000000000011111111…
 Post-quantum signature: 0x29066fbfe5ae05b9e187d05ca4eb19b2… (64 bytes)
 Broadcast! tx hash: 0x958688243ed577ca428e7497b919a1d5ee7107536fcc90b2984e124c83864bc4
@@ -112,7 +112,7 @@ registry, using ENS-style namehash keys.
 ================================================================
   Quantova example: governance vote
 ================================================================
-Voter (Falcon): QO8xYkzGFppx97fTUbILGFwsIz4=
+Voter (Falcon): Q1GQC0NW5VLDPRQUZ2YG39DP8USLDPQ9SDCGPL9T
 
 Referendum #7
 Vote: AYE  with 1000 QTOV @ locked2x (2.0x)
